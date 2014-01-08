@@ -1,5 +1,14 @@
 ul {
 	text-align: center;
+	margin-top: 100px;
+}
+
+h3 {
+	font-family: 'Abel', sans-serif;
+}
+
+body {
+	background-color: beige;
 }
 
 
